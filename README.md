@@ -1,6 +1,6 @@
 # Clane - AI-Powered Solana Token Security
 
-![Clane Demo]
+![Clane Demo](https://github.com/user-attachments/assets/b7431298-a091-4d8b-8450-568c9682851b)
 
 Clane is a cutting-edge browser extension that leverages advanced AI technology to protect your Solana investments by detecting malicious code patterns and hidden threats in tokens before you invest.
 
